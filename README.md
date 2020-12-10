@@ -76,7 +76,7 @@ php scripts/index.php
 
 - `config` mirai 插件配置文件夹
 - `data` mirai 文件缓存文件夹
-- `http_api` php 脚本程序或提供 api 的代码（主要开发目录）
+- `scripts` php 脚本程序或提供 api 的代码（主要开发目录）
 - `libs` mirai 程序目录
 - `logs` mirai 运行 log 文件夹
 - `plugins` mirai 插件安装文件夹
